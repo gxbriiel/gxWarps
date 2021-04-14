@@ -1,0 +1,13 @@
+warps:
+  spawn:
+    name: spawn
+    description: This is the spawn
+    item: DIAMOND_SWORD
+    item_amount: 2
+    item_durability: 2
+    x: 0
+    y: 0
+    z: 0
+    pitch: 0
+    yaw: 0
+    world: spawn
